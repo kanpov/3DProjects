@@ -1,0 +1,11 @@
+This project is based off of a 3-part tutorial by 3DGreenhorn.
+It is a free part of a paid course on Gumroad at https://3dgreenhorn.gumroad.com/l/stylizedrooms
+
+Channel URL - https://www.youtube.com/c/3DGreenhorn
+Video URLs:
+ https://www.youtube.com/watch?v=dEGJeVnWZAA
+ https://www.youtube.com/watch?v=T-NGS5GvCfM
+ https://www.youtube.com/watch?v=7Tpy0ibOi64
+Render - Render.png
+Reference - Reference.png
+Project - SmallBedroom.blend
