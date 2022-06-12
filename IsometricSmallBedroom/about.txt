@@ -1,6 +1,0 @@
-This project is based off of a tutorial by 3DGreenhorn.
-
-Channel URL - https://www.youtube.com/c/3DGreenhorn
-Video URL - https://www.youtube.com/watch?v=yCHT23A6aJA
-Render - Render.png
-Project - SmallBedroom.blend

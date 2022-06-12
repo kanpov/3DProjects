@@ -1,8 +1,0 @@
-This project is based on a popular tutorial by Blender Guru about creating a donut.
-
-Channel URL - https://www.youtube.com/c/BlenderGuruOfficial
-Playlist URL - https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD
-Renders are in a separate folder
-Project - Donut.blend
-Texture Paint - Donut Base.png
-Reference - Donut Reference.jpg
