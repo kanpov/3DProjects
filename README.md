@@ -6,7 +6,6 @@ Browse the directories in this repository to find the projects.
 
 Each project contains:
 
-- A `README.md` with a short summary of the project (_WIP_)
 - The primary `.blend` file
 - The rendered `.png` image
 - Sometimes, the reference `.png` image
